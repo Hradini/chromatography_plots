@@ -3,7 +3,7 @@
 This repository contains 
 - jupyter notebooks 
 	- to clean up .txt output files from size-exclusion chromatography runs and produce .csv files.
-	- to generate chromatic separation curves and $K_{av}$ values.
+	- to generate chromatic separation curves, $K_{av}$ values and estimate molecular weight of samples.
 - Raw_data/ contains sample input and output files for the converting notebook.
 
 ### ConvertingRawToCsv.ipynb
