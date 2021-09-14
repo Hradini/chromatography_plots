@@ -28,6 +28,7 @@ This repository contains
 - Chromatographic separation curves
 	- Absorbance vs. Elution Volume for markers with molecular weight markings.
 	- Absorbance vs. Elution Volume for sample protein with molecular weight markings.
+- <img src="https://render.githubusercontent.com/render/math?math=K_{av}"> values
 - $K_{av}$ values
 
 <b> Libraries needed: </b>
