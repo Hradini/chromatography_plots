@@ -38,7 +38,6 @@ This repository contains
 - math
 - sklearn
 
-s
 ### References
 
 - [3.4.2. Gel Exclusion Chromatography](https://chem.libretexts.org/@go/page/165276).  
